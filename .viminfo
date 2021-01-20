@@ -48,18 +48,19 @@
 	#
 
 # File marks:
-'0  1  0  members/
-'1  1  0  ~/opentutorials
-'2  1  0  ~/oepntutorials
-'3  3  5  ~/.git/opentutorials
-'4  1  0  ~/.git/opentutorials
-'5  1  0  /etc/apache2/mods-enabled/dir.conf
-'6  2  26  /etc/apache2/mods-enabled/dir.conf
-'7  1  12  ~/new.txt
-'8  1  0  /etc/rc.local
-'9  16  0  /etc/rc.local
+'0  1  0  opentutorials/urls.py
+'1  1  0  members/
+'2  1  0  ~/opentutorials
+'3  1  0  ~/oepntutorials
+'4  3  5  ~/.git/opentutorials
+'5  1  0  ~/.git/opentutorials
+'6  1  0  /etc/apache2/mods-enabled/dir.conf
+'7  2  26  /etc/apache2/mods-enabled/dir.conf
+'8  1  12  ~/new.txt
+'9  1  0  /etc/rc.local
 
 # Jumplist (newest first):
+-'  1  0  opentutorials/urls.py
 -'  1  0  members/
 -'  1  0  ~/opentutorials
 -'  1  0  ~/oepntutorials
@@ -157,7 +158,6 @@
 -'  1  0  /etc/wgetrc
 -'  92  0  /etc/ssh/sshd_config
 -'  93  0  /etc/ssh/sshd_config
--'  45  0  /etc/ssh/sshd_config
 
 # History of marks within files (newest to oldest):
 
